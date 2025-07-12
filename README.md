@@ -17,7 +17,7 @@ Merancang tampilan aplikasi yang sederhana, menarik, dan mudah digunakan untuk m
 
 ## 🔗 Link Prototipe
 
-👉 [Lihat Desain Langsung di Figma](https://www.figma.com/design/s0TJwpHkMbCGo0KESXz7Vz/Untitled?node-id=0-1&p=f&t=5IUaYHfqdI9CMSPz-0)
+👉 [Lihat Desain Langsung di Figma](assets/all-design.png)
 
 ---
 
