@@ -23,7 +23,8 @@ Merancang tampilan aplikasi yang sederhana, menarik, dan mudah digunakan untuk m
 
 ## 📸 Preview Desain
 
-📁 [Klik di sini untuk melihat gambar preview desain](assets/all-design.png)
+📁 [Klik di sini untuk melihat gambar preview desain](![Preview Desain](https://raw.githubusercontent.com/clauhub11/pemesanan-makanan-uiux/main/assets/all-design.png)
+
 
 
 ---
